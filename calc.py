@@ -1,4 +1,4 @@
-# Автор: ...
+# Автор: Дмитрий Николюк
 import math
 def add(a, b):
     return a + b
